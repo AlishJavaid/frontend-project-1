@@ -49,7 +49,3 @@ Alisha
 Computer Science Student
 
 Frontend Development Intern
-
-Email: your-email@example.com
-
-GitHub: https://github.com/yourusername
